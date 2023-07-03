@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "src/app/**/*": {
+      "memory": 256,
+      "maxDuration": 60
+    },
+    "src/pages/**/*": {
+      "memory": 256,
+      "maxDuration": 60
+    }
+  }
+}
